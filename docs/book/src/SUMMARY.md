@@ -83,6 +83,10 @@
 
 - [use_intl_number_format](intl/use_intl_number_format.md)
 
+# Components
+
+- [portal](components/portal.md)
+
 # @Math
 
 - [use_abs](math/use_abs.md)

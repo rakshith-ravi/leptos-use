@@ -11,6 +11,7 @@ pub mod math;
 #[cfg(feature = "storage")]
 pub mod storage;
 pub mod utils;
+pub mod components;
 
 cfg_if! { if #[cfg(web_sys_unstable_apis)] {
     mod use_element_size;
