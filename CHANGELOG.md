@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `signal_debounced`
 - `signal_throttled`
 
+### New Component 🚀
+- `Portal`
+
 ### Braking Changes 🛠
 
 - Leptos version is now 0.5
